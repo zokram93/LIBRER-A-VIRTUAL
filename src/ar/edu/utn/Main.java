@@ -9,7 +9,7 @@ public class Main {
 		LocalDate fecha = LocalDate.of(1997, 06, 26);
 		Libro nuevoLibro =  new Libro ("Harry Potter Y La Piedra Filosofal","J.K. Rowling",fecha,"Bloomsbury","9780590353427",5000.0,14, false);
 		LocalDate fecha3 = LocalDate.of(1997, 06, 26);
-		Libro nuevoLibro2 =  new Libro ("Juego de tronos (Canción de hielo y fuego 1","George R.R. Martin",fecha3,"Bloomsbury","9780590353427",7500.0,15, true);
+		Libro nuevoLibro2 =  new Libro ("Juego de tronos (Cancion de hielo y fuego 1","George R.R. Martin",fecha3,"Bloomsbury","9780590353427",7500.0,15, true);
 		LocalDate fecha1 = LocalDate.of(2022, 12, 4);
 		Revista nuevaRevista = new Revista("CARAS",fecha1,"asd","0032-6233",650.0,25, false);
 		LocalDate fecha4 = LocalDate.of(2023, 03, 13);
